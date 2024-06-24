@@ -12,6 +12,6 @@ def addressVal(address):
 print("This program will decideif your input is a valid email addresss.")
 while True:
     print("A valid email address needs an '@' sysmbol and a '.'")
-    x = input("Input our email address: ")
+    x = input("Input your email address: ")
 
     addressVal(x)

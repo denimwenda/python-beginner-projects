@@ -1,0 +1,1 @@
+This is a simple code which is converting strings into cute Animal Crossing Language, known as Animalese
