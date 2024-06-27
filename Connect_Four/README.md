@@ -1,0 +1,1 @@
+This script implements a simple Connect 4 game using Tkinter in Python.
