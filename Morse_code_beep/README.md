@@ -1,0 +1,1 @@
+This a python terminal program which allows users to convert english text to morse code and it also produces a beep sound of the code generated.

@@ -1,0 +1,1 @@
+Creating a motion detection system involves several steps, including setting up a camera, capturing frames, and using an algorithm to detect changes between frames. Below is a simple example using Python and OpenCV, a powerful library for image processing and computer vision tasks.
